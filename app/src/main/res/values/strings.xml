@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Margumynas</string>
+    <string name="app_title">TODO-LIST</string>
+    <string name="greeting">Labas,</string>
+    <string name="greeting_name">Emilija Račkauskaitė MKDfs-21</string>
+    <string name="primary_button_text">Pridėti naują užduotį</string>
+    <string name="complete">Atlikta</string>
+    <string name="late">Vėluojama</string>
+    <string name="ongoing">Daroma</string>
+    <string name="dialogText">Patvirtinkite ištrynimą</string>
+    <string name="dialog_question">Ar tikrai norite ištrinti šią užduotį?</string>
+    <string name="delete">Trinti</string>
+    <string name="cancel">Atšaukti</string>
+    <string name="title_label">Užduoties pavadinimas</string>
+    <string name="back_arrow">Rodykle atgal</string>
+    <string name="create_task">Sukurkite užduotį</string>
+    <string name="Submit">Tęsti</string>
+    <string name="create">Sukurti</string>
+    <string name="pick_time">Pasirinkite laiką</string>
+    <string name="selected_time">"Pasirinktas laikas: "</string>
+    <string name="selected_date">Pasirinkta Data:</string>
+    <string name="pick_date">Pasirinkite datą</string>
+    <string name="error_message">Įveskite pavadinimą.</string>
+    <string name="create_task_button">createTaskButton</string>
+    <string name="task_title_input">taskTitleInput</string>
+    <string name="create_button">createButton</string>
+    <string name="back_arrow_button">backArrowButton</string>
+    <string name="datepicker">datePicker</string>
+    <string name="timepicker">timePicker</string>
+    <string name="calendar_date_picker">calendar date picker</string>
+</resources>
